@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+pyttsx3
+pygame
+pillow
+numpy
