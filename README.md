@@ -52,6 +52,10 @@ Run the main application:
 python gui_app.py
 
 ```
+### Alternative Usage (Lightweight Mode)
+If you want to run the system without the full Dashboard UI (e.g., for testing or slower PCs):
+```bash
+python main.py
 
 ### Controls
 
